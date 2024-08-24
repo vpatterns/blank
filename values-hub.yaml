@@ -1,0 +1,14 @@
+#file name depends clusterGroupName in values-global.yaml
+#
+clusterGroup:
+  name: hub
+  isHubCluster: true
+
+  projects:       
+  - hub  
+  
+  namespaces: []
+
+  subscriptions: {}
+
+  applications: {}

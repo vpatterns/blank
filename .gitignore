@@ -1,0 +1,5 @@
+playbooks/files/*.zip
+.dockerconfigjson
+.dockerconfigjson-upd
+.oc-mirror.log
+all.yaml
