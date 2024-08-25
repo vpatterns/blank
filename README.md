@@ -1,6 +1,6 @@
 # Blank Pattern
 
-This repository is a blank/empty pattern that helps as a baseline to start building custom patterns - the key point of this repository is that it gets the framework started once the pattern is created in OpenShift but it's not including any application or configuration yet. 
+This repository is a blank/empty pattern that helps as a baseline to start building custom patterns - the key point of this repository is that it gets the framework started once the pattern is created in OpenShift, but it's not including any application or configuration yet. 
 
 Validated Patterns are an evolution of how you deploy applications in a hybrid cloud. With a pattern, you can automatically deploy a full application stack through a GitOps-based framework. With this framework, you can create business-centric solutions while maintaining a level of Continuous Integration (CI) over your application.
 
